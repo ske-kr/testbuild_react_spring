@@ -1,3 +1,4 @@
 practice
 
 1. 이클립스 기반 스프링 툴 설치-> https://spring.io/tools 
+2. branch만들어서 폴더만들고 Pull request보내기 해보라고했드만

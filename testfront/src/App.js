@@ -4,7 +4,7 @@ import LoginPage from '../src/components/LoginPage';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <LoginPage title={'Test Page'}/>
     </div>
   );
